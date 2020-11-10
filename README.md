@@ -1,2 +1,3 @@
 # fireworks-ZinC
-tutorial
+
+Run index.html with Live Server
