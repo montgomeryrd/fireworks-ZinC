@@ -1,0 +1,19 @@
+{
+  "name": "fireworks-zinc",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montgomeryrd/fireworks-ZinC.git"
+  },
+  "author": "Richard Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montgomeryrd/fireworks-ZinC/issues"
+  },
+  "homepage": "https://github.com/montgomeryrd/fireworks-ZinC#readme"
+}
